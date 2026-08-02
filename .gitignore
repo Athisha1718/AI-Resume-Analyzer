@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Upload folder
+backend/uploads/
+
+# Node
+frontend/node_modules/
+
+# Build folders
+frontend/dist/
+
+# VS Code
+.vscode/
