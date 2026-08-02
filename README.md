@@ -307,10 +307,4 @@ ATS Score = 37%
 - Download PDF Report
 - Interview Readiness Score
 - Resume Templates
-
----
-
-
-If you like this project,
-
-⭐ Star this repository on GitHub.
+- ---
